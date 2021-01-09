@@ -1,7 +1,9 @@
-int x,y,z,a
+int x,y,z,a,d
 read x,y
 z=y-x;
 print "the value is",z
 read z
 a=x+z;
 print "the sum is",a 
+d=x+y
+print "the added sum is",d
