@@ -1,0 +1,7 @@
+int x,y,z,a
+read x,y
+z=y-x;
+print "the value is",z
+read z
+a=x+z;
+print "the sum is",a 
