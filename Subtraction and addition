@@ -1,7 +1,10 @@
-int x,y,z,a
+int x,y,z,a,b
 read x,y
 z=y-x;
 print "the value is",z
 read z
 a=x+z;
 print "the sum is",a 
+// work on multiplication on change proposed by customer
+b=a*z;
+print "the multiplied result is",b
